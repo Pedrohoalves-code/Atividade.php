@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "nome": "tecnologia"
+    },
+    {
+        "id": 2,
+        "nome": "inovação"
+    },
+    {
+        "id": 3,
+        "nome": "ciência"
+    },
+    {
+        "id": 4,
+        "nome": "pesquisa"
+    }
+]

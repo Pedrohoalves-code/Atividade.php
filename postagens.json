@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "Título da Primeira Postagem",
+        "conteudo": "<p>Conteúdo formatado com <strong>HTML</strong></p>",
+        "autorId": 2,
+        "dataPublicacao": "2024-10-01",
+        "categoria": "Tecnologia",
+        "tags": ["tecnologia", "inovação"],
+        "imagemDestacada": "imagem1.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Título da Segunda Postagem",
+        "conteudo": "<p>Outro conteúdo interessante.</p>",
+        "autorId": 2,
+        "dataPublicacao": "2024-10-02",
+        "categoria": "Ciência",
+        "tags": ["ciência", "pesquisa"],
+        "imagemDestacada": "imagem2.jpg"
+    }
+]
